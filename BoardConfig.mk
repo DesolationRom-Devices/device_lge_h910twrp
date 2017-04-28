@@ -1,4 +1,4 @@
-DEVICE_TREE := device/lge/us996
+DEVICE_TREE := device/lge/us996twrp
 
 # Bootloader
 TARGET_NO_BOOTLOADER := true
